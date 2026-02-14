@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ===== تنظیمات =====
-TOKEN = "توکن_رباتت_اینجا"
+TOKEN = "8057867786:AAGtLWeRYTx3Q0NQOZNr_QV9IAB86NxS9Ns"
 BOT_USERNAME = "myfileidtest_bot"  # بدون @
 
 admin_id = None
@@ -83,3 +83,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
